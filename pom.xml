@@ -20,7 +20,7 @@
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<sonar.organization>semperfenix</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>SemperFenix_gft_inditex</sonar.projectKey>
+		<sonar.projectKey>SemperFenix_gft_ivan_duran</sonar.projectKey>
 		<sonar.token>${env.SONAR_TOKEN}</sonar.token>
 		<sonar.coverage.exclusions>**/Application.java</sonar.coverage.exclusions>
 		<sonar.coverage.jacoco.xmlReportPaths>${project.basedir}/target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
